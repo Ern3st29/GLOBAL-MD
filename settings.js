@@ -5,23 +5,23 @@ const chalk = require('chalk');
 
 //owmner v card
 global.ytname = "YT: නැ 👉👈" //ur yt chanel name
-global.socialm = "GitHub: නැ 👉👈" //ur github or insta name
-global.location = "දකුණෙ මාතර ✌️💖" //ur location
+global.socialm = "GitHub: Ern3st29👉👈" //ur github or insta name
+global.location = "Africa/Nigeria✌️💖" //ur location
 
 //new
-global.botname = '🐼-𝐌𝐃' //ur bot name
-global.ownernumber = ['94782543893'] //ur owner number, dont add more than one
-global.ownername = '🐼-𝐌𝐃' //ur owner name
+global.botname = 'Vawulence-MD' //ur bot name
+global.ownernumber = ['2349030359124'] //ur owner number, dont add more than one
+global.ownername = 'Vawulence😈' //ur owner name
 global.websitex = "https://wa.me/qr/P6WADRJOKAFUK1"
 global.wagc = "https://wa.me/qr/P6WADRJOKAFUK1"
 global.themeemoji = '🪀'
-global.wm = "Hashan Bot Inc."
+global.wm = "Vawulence Bot Inc."
 global.botscript = 'https://wa.me/qr/P6WADRJOKAFUK1' //script link
-global.packname = "Sticker By"
-global.author = "🐼-𝐌𝐃\n\n+94782543893"
-global.creator = "94782543893@s.whatsapp.net"
+global.packname = "Ernest"
+global.author = "🐼-𝐌𝐃\n\n+2349065526692"
+global.creator = "2349065526692@s.whatsapp.net"
 global.xprefix = '.',''
-global.premium = ["94782543893"] // Premium User
+global.premium = ["2349030359124"] // Premium User
 
 //channel id
 global.xchannel = {
@@ -31,8 +31,8 @@ global.xchannel = {
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
-global.autoblocknumber = '91' //set autoblock country code
-global.antiforeignnumber = '94' //set anti foreign number country code
+global.autoblocknumber = 'null' //set autoblock country code
+global.antiforeignnumber = 'null' //set anti foreign number country code
 
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
@@ -50,9 +50,9 @@ global.uang = {
 }
 
 global.mess = {
-	error: 'Error!',
+	error: 'Umm....bro theres an Error!',
 	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
-	done: 'Done'
+	done: 'Done🤓'
 }
 
 global.bot = {
